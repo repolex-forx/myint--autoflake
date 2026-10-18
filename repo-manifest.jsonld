@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/myint/autoflake/commit/8b019503c6fdb4e59df8293ec7d3115b4ebaec0b",
       "git:hexsha": "8b019503c6fdb4e59df8293ec7d3115b4ebaec0b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:30:32.224593+00:00"
     },
     {
       "@id": "https://repolex.ai/r/myint/autoflake/commit/3428b0c914cca45e0a49681092c495a713f024fc",
