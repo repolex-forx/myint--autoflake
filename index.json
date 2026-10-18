@@ -1,0 +1,11 @@
+{
+  "org": "myint",
+  "repo": "autoflake",
+  "versions": [
+    {
+      "commit": "8b019503c6fdb4e59df8293ec7d3115b4ebaec0b",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:30:32.225312+00:00"
+    }
+  ]
+}
